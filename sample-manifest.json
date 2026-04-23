@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ec0aef7f-3e47-4c15-8e56-859e78c18553",
+  "export_job_id": "8c6c17a3-31c6-455b-809c-79b20bb34af4",
   "id_short": 443475,
-  "published_at": "2026-04-19T19:14:56Z",
+  "published_at": "2026-04-23T19:20:37Z",
   "repo_name": "all-restaurants-in-akron-metro-ohio-us-sample-443475",
   "sample_asset_name": "beamstation_443475_restaurants-us-akronoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/443475/beamstation_443475_restaurants-us-akronoh_SAMPLE_DIST.csv",
-  "sample_records": 125,
-  "sample_sha256": "f7840a41eaadbc610cd66248faded1dfb88c97343127553303febc8760874548",
-  "sample_size_bytes": 490085,
-  "total_records": 1257
+  "sample_records": 110,
+  "sample_sha256": "1263812e5fa54885a63e44c0561e005727919daff6339faeaa2165d03cdb0b35",
+  "sample_size_bytes": 423833,
+  "total_records": 1101
 }
