@@ -1,6 +1,6 @@
 # All Restaurants in Akron (Metro), Ohio, US
 
-> Free BeamStation sample export with 125 rows and masked direct-contact fields.
+> Free BeamStation sample export with 110 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `443475` |
 | Location | Akron, OH |
 | Category | Restaurants |
-| Full dataset size | 1,257 records |
-| Free sample size | 125 records (9.94%) |
-| Last export | 2026-04-16T11:18:22.489228+00:00 |
+| Full dataset size | 1,101 records |
+| Free sample size | 110 records (9.99%) |
+| Last export | 2026-04-23T10:54:18.515653+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-akron-metro-ohio-us-sample-443475/releases/download/sample-latest/beamstation_443475_restaurants-us-akronoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
